@@ -163,6 +163,7 @@ tbody tr:hover {
 
 ### With CSS:
 
+![image](https://github.com/user-attachments/assets/513bba81-7238-44e9-abb5-e81746ccdc49)
 
 
 ## Result:
